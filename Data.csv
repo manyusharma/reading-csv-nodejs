@@ -1,0 +1,6 @@
+STATUS,PRIORITY,TASKNAME,DESCRIPTION,FIXEDCOST,ESTHRS,ACTUALHRS
+Project Name,,task,,1640,55,56
+On Hold,High,Task,Details 1,200,30,25
+Not Yet Started,Low,Task,Details 2,600,11,10
+In Progress,Medium,Task,Details 3,800,12,18
+Complete,Medium,Task,Details 4,40,2,3
